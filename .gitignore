@@ -9,7 +9,17 @@ __pycache__/
 .DS_Store
 **/.DS_Store
 .local/
+docs/
 tmp/
 .idea/
 memory/
 local/
+*.bun-build
+**/.gradle/
+**/.build/
+**/.swiftpm/
+**/build/
+**/ModuleCache/
+.serena/
+.ant-colony/
+.dev-state
