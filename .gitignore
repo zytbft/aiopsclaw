@@ -1,0 +1,15 @@
+node_modules
+**/node_modules/
+.env
+dist
+pnpm-lock.yaml
+coverage
+__pycache__/
+*.pyc
+.DS_Store
+**/.DS_Store
+.local/
+tmp/
+.idea/
+memory/
+local/
