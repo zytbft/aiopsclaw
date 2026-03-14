@@ -1,0 +1,11 @@
+{
+  "name": "@aiopsclaw/slack",
+  "version": "2026.3.14",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "peerDependencies": {
+    "aiopsclaw": "workspace:*"
+  }
+}
