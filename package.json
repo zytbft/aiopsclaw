@@ -1,0 +1,15 @@
+{
+  "name": "aiopsclaw",
+  "version": "2026.3.14",
+  "description": "Multi-channel AI gateway with extensible messaging integrations",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zytbft/aiopsclaw.git"
+  },
+  "bin": {
+    "aiopsclaw": "aiopsclaw.mjs"
+  },
+  "type": "module",
+  "main": "dist/index.js"
+}
